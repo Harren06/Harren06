@@ -1,1 +1,1 @@
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=Harren06&cc=000&tc=fff&ic=c71585&bc=0000 "Stats")](https://github.com/Harren06&cc=000&tc=fff&ic=c71585&bc=0000 "Stats")[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harren06&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=Harren06&cc=000&tc=fff&ic=c71585&bc=0000 "Stats")](https://github.com/Harren06&cc=000&tc=fff&ic=c71585&bc=0000 "Stats")
